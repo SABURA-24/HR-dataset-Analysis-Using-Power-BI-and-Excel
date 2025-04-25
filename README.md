@@ -82,7 +82,7 @@ The goal of this project is to analyze the **Human Resources dataset** and visua
 
 ---
 
-## 📌 Recommendations by Data Analyst
+## 📌 Recommendations by Data Analysis
 
 1. **Retention Focus on Female Employees**
    - Attrition is higher among female employees. Conduct targeted surveys or exit interviews to understand and address their concerns.
